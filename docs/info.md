@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is based on (https://github.com/ericsmi/tt05-loopback-with-skew)
+but for GF180MCU.
 
 ## How to test
 
-Explain how to use your project
+Clock the project and modiify the timing and examine FF capture reliabiliy.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Skewable clock and data source.
